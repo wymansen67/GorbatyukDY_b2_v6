@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GorbatyukDY_b2_v6</string>
+    <string name="mail_hint">***********@mail.com</string>
+    <string name="psswd_hint">***********</string>
+    <string name="password_text">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="subtitle">Fill in your email and password to continue</string>
+    <string name="title">Welcome back</string>
+    <string name="email_address_string">Email address</string>
+    <array name="spinnerData">
+        <item>John Joshua</item>
+        <item>Chinoso James</item>
+        <item>Raph Ron</item>
+        <item>Joy Ezekiel</item>
+        <item>Joy Ezekiel</item>
+    </array>
+</resources>
